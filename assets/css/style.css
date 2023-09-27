@@ -1187,3 +1187,7 @@ button, a { transition: var(--transition); }
   .footer-list:last-of-type { width: 33.33%; }
 
 }
+
+.logo img {
+  width: 110px;
+}
